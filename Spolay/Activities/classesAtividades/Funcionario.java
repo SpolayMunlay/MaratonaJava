@@ -1,4 +1,4 @@
-package Spolay.Activities.classesAtividades;
+package MaratonaJava.Spolay.Activities.classesAtividades;
 
 public class Funcionario {
     private String nome;

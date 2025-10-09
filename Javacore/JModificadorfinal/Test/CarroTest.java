@@ -8,7 +8,6 @@ public class CarroTest {
         carro.setNome("Purple Lambo Labubu Fantasy");
         System.out.println(carro.getNome());
         System.out.println(Carro.VELOCIDADE_LIMITE);
-        System.out.println(carro.COMPRADOR);
         carro.COMPRADOR.setNome("Rick Ross");
         System.out.println(carro.COMPRADOR);
         carro.imprime();

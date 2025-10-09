@@ -1,7 +1,8 @@
-package Spolay.Activities;
+package MaratonaJava.Spolay.Activities;
 
-import Spolay.Activities.classesAtividades.Funcionario;
-import Spolay.Activities.classesAtividades.Impressora;
+
+import MaratonaJava.Spolay.Activities.classesAtividades.Funcionario;
+import MaratonaJava.Spolay.Activities.classesAtividades.Impressora;
 
 public class IdentificacaoFuncionario {
     public static void main(String[] args) {

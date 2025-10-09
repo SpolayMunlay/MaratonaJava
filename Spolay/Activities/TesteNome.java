@@ -1,4 +1,4 @@
-package Spolay.Activities;
+package MaratonaJava.Spolay.Activities;
 
 import java.util.Scanner; // importa a classe Scanner
 

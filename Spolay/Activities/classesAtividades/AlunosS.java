@@ -1,13 +1,8 @@
-package Spolay.Activities.classesAtividades;
-
+package MaratonaJava.Spolay.Activities.classesAtividades;
 public class AlunosS {
     private String nome;
     private int idade;
     private Seminario seminario;
-
-    public AlunosS(String nome) {
-        this.nome = nome;
-    }
 
     public AlunosS(String nome, int idade) {
         this.nome = nome;
@@ -36,13 +31,14 @@ public class AlunosS {
     public int getIdade(){
         return idade;
     }
-    public void setSeminario(Seminario seminario){
-        this.seminario = seminario;
-    }
     public Seminario getSeminario() {
         return seminario;
     }
     public void imprime(){
         System.out.println(this.seminario.getNome());
     }
+    public void setSeminario(Seminario seminario){
+        this.seminario = seminario;
+    }
+
 }
