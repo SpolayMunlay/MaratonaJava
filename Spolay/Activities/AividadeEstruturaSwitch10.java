@@ -20,7 +20,7 @@ public class AividadeEstruturaSwitch10 {
                 System.out.println("Hoje é quinta, Dia útil");
                 break;
                 case 6:
-                System.out.println("Hoje é sexta 😝);
+                System.out.println("Hoje é sexta 😝");
                 break;
                 case 7:
                 System.out.println("Hoje é sábado, fim de semana");
