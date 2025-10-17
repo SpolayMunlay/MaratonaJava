@@ -1,4 +1,4 @@
-package MaratonaJava.Javacore.OExcepcion.ExceptionTest;
+package MaratonaJava.Javacore.OExcepcion.Exception.ExceptionTest;
 
 import java.io.File;
 import java.io.IOException;
