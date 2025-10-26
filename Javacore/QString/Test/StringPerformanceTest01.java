@@ -1,6 +1,6 @@
 package MaratonaJava.Javacore.QString.Test;
 
-public class StringPerformanceTest {
+public class StringPerformanceTest01 {
     public static void main(String[] args) {
 
         long inicio = System.currentTimeMillis();
